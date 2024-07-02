@@ -117,7 +117,7 @@
 						/></svg
 					>
 
-					<span class="mx-1 text-sm"> Conduites à faire </span>
+					<span class="mx-1 text-sm"> Conduites à tenir </span>
 				</button>
 				<button
 					type="button"
